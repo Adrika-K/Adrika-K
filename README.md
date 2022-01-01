@@ -59,7 +59,6 @@
   <img height="50" src="https://static.vecteezy.com/system/resources/previews/000/380/612/original/xml-vector-icon.jpg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </p>
 
