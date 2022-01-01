@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Adrika Kakoty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <h3 align="center">Computer Science & Engineering Student with specialization in Artificial Intelligence and Machine Learning</h3>
-<img align="center" alt="GIF of Me" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="650px"/>
+<img align="center" alt="GIF of Me" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650px"/>
 
 
 
