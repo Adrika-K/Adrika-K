@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! I'm Adrika Kakoty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <h3 align="center">Computer Science & Engineering Student with specialization in Artificial Intelligence and Machine Learning</h3>
+<p align="center">
 <img align="center" alt="GIF of Me" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="650px"/>
-
+</p>
 
 
   ![Adrika Kakoty's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrika-K&theme=react-dark)
@@ -54,6 +55,8 @@
   </a>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img height="50" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png">
+  <img height="50" src="https://static.vecteezy.com/system/resources/previews/000/380/612/original/xml-vector-icon.jpg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg">
