@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:adrikakakoty2002@gmail.com?'Reaching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="MAIL" height="40" width="40" /></fa>
+<a href="mailto:adrikakakoty2002@gmail.com?'Reaching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://www.rightclickcomputersolutions.com/wp-content/uploads/2018/05/Gmail_logo.max-2800x2800.png" alt="MAIL" height="40" width="40" /></fa>
 
 
   <a href="https://www.linkedin.com/in/adrika-k/" target="blank"
