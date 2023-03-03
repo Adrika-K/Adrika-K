@@ -5,7 +5,7 @@
 </p>
 
 
-  ![Adrika Kakoty's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrika-K&theme=react-dark)
+  <!--![Adrika Kakoty's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adrika-K&theme=react-dark)-->
 
 
 
